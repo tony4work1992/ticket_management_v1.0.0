@@ -1,0 +1,5 @@
+{
+  "name": "Artifact Manager",
+  "description": "A dashboard for managing project artifacts including requirements, implementation plans, and testing tickets.",
+  "requestFramePermissions": []
+}
